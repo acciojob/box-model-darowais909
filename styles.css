@@ -10,7 +10,7 @@
 	margin-left:70px;
 }
 #one{
-	background-color: #018000;
+	background-color: green;
 	width:50px;
 	height:50px;
 	border-radius:50%;
@@ -18,7 +18,7 @@
 	margin-right: 5px;
 }
 #two{
-	background-color: #ffff02;
+	background-color: yellow;
 	width:50px;
 	height:50px;
 	border-radius:50%;
@@ -26,7 +26,7 @@
 	margin-right: 5px;
 }
 #three{
-	background-color: #ff0101;
+	background-color: red;
 	width:50px;
 	height:50px;
 	border-radius:50%;
