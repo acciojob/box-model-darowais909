@@ -1,1 +1,35 @@
-/*  your css code here. If applicable */
+#main{
+	display:flex;
+	justify-content:center;
+	background-color: #d3d3d3;
+	width:300px;
+	height:100px;
+	border-style:solid;
+	border-radius: 30px;
+	margin-top: 70px;
+	margin-left:70px;
+}
+#one{
+	background-color: #018000;
+	width:50px;
+	height:50px;
+	border-radius:50%;
+	margin-top: 25px;
+	margin-right: 5px;
+}
+#two{
+	background-color: #ffff02;
+	width:50px;
+	height:50px;
+	border-radius:50%;
+	margin-top: 25px;
+	margin-right: 5px;
+}
+#three{
+	background-color: #ff0101;
+	width:50px;
+	height:50px;
+	border-radius:50%;
+	margin-top: 25px;
+	margin-right: 5px;
+}
